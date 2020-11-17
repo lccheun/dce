@@ -1,3 +1,13 @@
+## v0.33.1
+- Add DCE reset support for:
+  - apigatewayv2
+  - comprehend
+  - globalaccelerator
+  - imagebuilder
+  - lex
+  - transfer
+  - wafv2
+
 ## v0.33.0
 - Upgrade aws-nuke to v1.3.0 
 
